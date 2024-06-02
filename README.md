@@ -19,4 +19,4 @@ You can find the code for the entire project in the transformer-text-classificat
 
 A comprehensive report detailing the model architecture, training process, evaluation metrics, and performance graphs is available in `report.pdf`.
 
-For questions or feedback, please contact [email](mailto:gayatriwalke@gmail.com).
+For questions or feedback, please [email](mailto:gayatriwalke@gmail.com).
